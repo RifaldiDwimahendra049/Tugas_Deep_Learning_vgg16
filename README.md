@@ -1,0 +1,5 @@
+MUHAMMAD RIFALDI DWIMAHENDRA
+F55120049
+# Tugas_Deep_Learning_vgg16
+
+
